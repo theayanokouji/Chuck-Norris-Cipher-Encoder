@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder (Kotlin)/*
+!/Chuck Norris Cipher Encoder (Kotlin)/task/
+/Chuck Norris Cipher Encoder (Kotlin)/task/*
+!/Chuck Norris Cipher Encoder (Kotlin)/task/src
